@@ -1,0 +1,19 @@
+.card {
+  height: auto;
+  padding: 12px;
+  margin: auto;
+  box-sizing: border-box;
+  max-height: 500px;
+}
+
+.card img {
+  width: 100%;
+  height: auto; 
+  overflow: auto;    /* image fully visible */
+}
+
+.card h5,
+.card p {
+  margin: 8px 0;
+  overflow:auto;
+}
